@@ -13,7 +13,7 @@ https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd
     pandas  
     numpy  
     scipy  
-    PIL  
+    *PIL*  
 
 **3.Modules**  
     'tool_utils.py':for all data processing;  
