@@ -17,8 +17,7 @@ https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd
 
 **3.Modules**  
     `tool_utils.py` :for all data processing;  
-    `tool_wordembeddings.py`:loading trained word-embeddings according label list，  
-        source：https://github.com/xgli/word2vec-api  
+    `tool_wordembeddings.py`:loading trained word-embeddings of label-list,source：https://github.com/xgli/word2vec-api  
     `model_AE.py`:auto-encoder for class-wordembeddings;  
     `model_VGG.py`:image features extraction；  
     `model_PSN.py`:Pseudo-Siamese Network(PSN),using cosine-distance of class-wordembeddings as output label;  
